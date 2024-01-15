@@ -1,0 +1,202 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(33, 67, 95);
+
+}
+
+.main{
+    font-size: 60px;
+    font-style:normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.AtoZ{
+
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+}
+.A{
+    font-size: 30px;
+    font-style: oblique;
+    
+}
+.inline{
+    font-size: 45px;
+    font-style: oblique;
+}
+.B{
+    font-size: 30px;
+    font-style: oblique;
+}
+.C{
+    font-size: 30px;
+    font-style: oblique;
+}
+.D{
+    font-size: 30px;
+    font-style: oblique;
+}
+.E{
+    font-size: 30px;
+    font-style: oblique;
+}
+.F{
+    font-size: 30px;
+    font-style: oblique;
+}
+.G{
+    font-size: 30px;
+    font-style: oblique;
+}
+.H{
+    font-size: 30px;
+    font-style: oblique;
+}
+.I{
+    font-size: 30px;
+    font-style: oblique;
+}
+.J{
+    font-size: 30px;
+    font-style: oblique;
+}
+.K{
+    font-size: 30px;
+    font-style: oblique;
+}
+.L{
+    font-size: 30px;
+    font-style: oblique;
+}
+.M{
+    font-size: 30px;
+    font-style: oblique;
+}
+.N{
+    font-size: 30px;
+    font-style: oblique;
+}
+.O{
+    font-size: 30px;
+    font-style: oblique;
+}
+.P{
+    font-size: 30px;
+    font-style: oblique;
+}
+.Q{
+    font-size: 30px;
+    font-style: oblique;
+}
+.R{
+    font-size: 30px;
+    font-style: oblique;
+}
+.S{
+    font-size: 30px;
+    font-style: oblique;
+}
+.T{
+    font-size: 30px;
+    font-style: oblique;
+}
+.U{
+    font-size: 30px;
+    font-style: oblique;
+}
+.V{
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.W{
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.X{
+    font-size: 30px;
+    font-style: oblique;
+}
+.Y{
+    font-size: 30px;
+    font-style: oblique;
+}
+.Z{
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.ur{
+    font-size: 60px;
+    font-weight: bold;
+}
+.sub{ 
+
+    font-size: 13px;
+    width: 14vh;
+    height: 5vh;
+    font-weight: bolder;
+    background-color: rgb(177, 177, 216);
+    border-style: double;
+    border-radius: 7px;
+    margin-left: 20px;
+
+
+}
+
+.form{
+
+    font-weight: bolder;
+    font-weight: bolder;
+    border-width: 200px;
+    background-origin: padding-box;
+    margin-top: 120px;
+}
+
+.name{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 3vh;
+}
+
+.father-name{
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    padding-left: 3vh;
+
+}
+
+.comments{
+    border-radius: 10px;
+    padding-left: 1vh;
+    padding-top: 1vh;
+
+}
+
+.totop{
+    position: fixed;
+    bottom: 0px;
+    right: 10px;
+    background-color: chartreuse;
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.top-img{
+    width: 30px;
+    height: 30px;
+    background-color: chartreuse;
+
+}
+
+.html{
+    scroll-behavior: smooth;
+}
